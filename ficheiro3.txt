@@ -1,1 +1,9 @@
 este é o exemplo de um ficheiro de texto file 3
+
+ola iapsi
+
+este é o terceiro ficheiro
+
+vai sofrer altrações
+
+bye
